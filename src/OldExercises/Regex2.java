@@ -1,3 +1,5 @@
+package OldExercises;
+
 import java.util.Scanner;
 import java.util.regex.Pattern;
 

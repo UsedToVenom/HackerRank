@@ -1,3 +1,5 @@
+package OldExercises;
+
 import java.util.*;
 public class Palindrome2 {
     static boolean isAnagram(String a, String b) {

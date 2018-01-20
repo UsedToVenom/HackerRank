@@ -1,6 +1,8 @@
+package OldExercises;
+
 import java.util.Scanner;
 
-public class Rownolegloscian {
+public class GeometricShape {
     public static Integer B = null;
     public static Integer H = null;
     public static boolean flag = false;

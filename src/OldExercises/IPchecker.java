@@ -1,3 +1,5 @@
+package OldExercises;
+
 import java.util.Scanner;
 
 public class IPchecker {
