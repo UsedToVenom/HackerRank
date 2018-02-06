@@ -1,6 +1,7 @@
 package Feb2018.RegexUserName;
 
 import Feb2018.RegexUserName.UsernameValidator;
+import org.junit.Test;
 
 import java.util.Scanner;
 
